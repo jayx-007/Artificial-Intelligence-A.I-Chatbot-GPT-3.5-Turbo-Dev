@@ -4,6 +4,8 @@ This project is a Javascript(JS) based project, i made it so beacuse it would be
 the implementation process using just JS, HTML and CSS(for the GUI front-end).
 
 **Inorder to test this Project after you have downloaded it from this Repo follow the following steps stated below:**
+
+
 1).You will have to visit the URL API Endpoint for OpenAI which is: https://platform.openai.com/api-keys , 
   { NOTE: If you do not have an account you will have to create one so that you can generate a free OpenAI API Key inorder for you to have access to the ML Model via the API Endpoint}
   
