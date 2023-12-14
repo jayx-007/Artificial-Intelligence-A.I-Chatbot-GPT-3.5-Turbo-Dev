@@ -1,7 +1,7 @@
 # Artificial-Intelligence-A.I-Chatbot-GPT-3.5-Turbo-Dev
 It has being a while I created and implemented an A.I system, so I had to refresh my ML skill by developing a Chatbot using OpenAI ML Model. I hope you find this mini side project resourceful for your practice.
-This project is a Javascript(JS) based project, i made it so beacuse it would be easy for anyone with an average programming knowledge of JS to be able to understand the source code and how i went about the 
-the implementation process using just JS, HTML and CSS(for the GUI front-end).
+This project is a Javascript(JS) based project, i made it so beacuse it would be easy for anyone with an average programming knowledge of JS to be able to understand the source code 
+and how i went about the implementation process using just JS, HTML and CSS(for the GUI front-end).
 
 **Inorder to test this Project after you have downloaded it from this Repo follow the following steps stated below:**
 
